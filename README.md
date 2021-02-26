@@ -1,0 +1,2 @@
+# genesis
+Deneme 2
